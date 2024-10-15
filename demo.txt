@@ -1,2 +1,2 @@
 first line created in branch a
-
+second line created in branch b
