@@ -1,3 +1,4 @@
 first line created in branch b
 first line created in branch a
 second line created in branch b
+third line created in branch b
